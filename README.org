@@ -5,6 +5,6 @@ The Common-Line Options Nuker
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/didierverna/clon.git    |
-| commit  | 3de2f5a                                        |
+| commit  | b2e9e66                                        |
 | systems | net.didierverna.clon net.didierverna.clon.core |
 |---------+------------------------------------------------|
